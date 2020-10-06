@@ -34,7 +34,7 @@ The following animation demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* The URL of the functional, deployed application.
+* The URL of the functional, deployed application.https://asoler000.github.io/code-quiz/
 
 * The URL of the GitHub repository. https://github.com/asoler000/code-quiz
 
